@@ -1,0 +1,1 @@
+In this Github Repo, I have the Assignments I have done, while studying C# on Krystyna's Ślusarczyk Course (In-depth .NET programming course from basics to advanced. Focus on clean code, performance and practice.) which can be found on Udemy.
