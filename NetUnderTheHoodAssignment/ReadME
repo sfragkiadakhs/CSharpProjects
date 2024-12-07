@@ -1,0 +1,5 @@
+In this assignment a CSV file is loaded. This CSV file contains 4000 rows and 432 columns. The values of this table may be empty, bool, strings, ints and decimals. 
+The aim of this assignment is to improve the performance of the Code on terms of memory usage, time taken to writing and reading the data in the memory.
+In the /OldSolution all data would be stored in the memory. Considering that the file had a lot of empty cells we have setted the program to store only not null values.
+In addition, all the data were stored with type: object in the first solution, so when we noticed that there are only 4 types of data(bool, string, int & decimal), we changed the code to store them in different Lists, each one on it's specific type. 
+This helped to prevent unnecessary boxing/unboxing of the data, while acessing them. 
