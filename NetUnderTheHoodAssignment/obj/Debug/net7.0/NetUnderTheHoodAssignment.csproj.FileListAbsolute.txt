@@ -1,0 +1,14 @@
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.exe
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.deps.json
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.runtimeconfig.json
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.dll
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.pdb
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.AssemblyInfoInputs.cache
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.AssemblyInfo.cs
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.dll
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\refint\NetUnderTheHoodAssignment.dll
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.pdb
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.genruntimeconfig.cache
+C:\Users\stelios\source\repos\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\ref\NetUnderTheHoodAssignment.dll
