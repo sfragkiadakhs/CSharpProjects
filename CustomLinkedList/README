@@ -1,0 +1,11 @@
+This assignement's purpose is to understand how to implement Custom linked lists. 
+
+The following interface was given with instructions to implement all of its corresponding methods.
+
+public interface ILinkedList<T> : ICollection<T>
+{
+    void AddToFront(T item);
+    void AddToEnd(T item);
+}
+
+The class implementing the interface, is called CustomLinkedList and uses the nested class Node to implement a single-linked list.
