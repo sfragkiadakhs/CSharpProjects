@@ -1,0 +1,14 @@
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\bin\Debug\net8.0\CustomLinkedList.exe
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\bin\Debug\net8.0\CustomLinkedList.deps.json
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\bin\Debug\net8.0\CustomLinkedList.runtimeconfig.json
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\bin\Debug\net8.0\CustomLinkedList.dll
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\bin\Debug\net8.0\CustomLinkedList.pdb
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.dll
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\refint\CustomLinkedList.dll
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.pdb
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.genruntimeconfig.cache
+C:\Users\stelios\source\repos\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\ref\CustomLinkedList.dll
